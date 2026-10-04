@@ -5,7 +5,7 @@ I build full-stack web and mobile software.
 
 ### Experience
 
-- **Software Development Intern**, Tahsilist (fintech SaaS for receivables and collection automation) · Jul–Sep 2026\
+- **Software Development Intern**, Tahsilist (SaaS for receivables and collection automation) · Jul–Sep 2026\
   Refactored production React code on the collections platform and shipped it through code review. React, Node.js
 - **Scholarship Researcher**, Işık University IntalaLAB · May–Nov 2024\
   Designed and prototyped mobile interfaces for the TÜBİTAK-funded TOP4HoneyChains traceability project. Kotlin, Android
