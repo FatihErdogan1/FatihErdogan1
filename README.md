@@ -17,7 +17,7 @@ I build full-stack web and mobile software, and I'm especially interested in **f
 | [**HesAPP**](https://github.com/FatihErdogan1/HesAPP) | POS system running in production at a real café: table orders on tablets, split payments, customer accounts, Z-reports, thermal receipt printing and a customer menu kiosk | ASP.NET Core, React, TypeScript, SQLite, SignalR |
 | [**envanter-api**](https://github.com/FatihErdogan1/envanter-api) · [**envanter-ui**](https://github.com/FatihErdogan1/envanter-ui) | Inventory and asset management platform with role-based access and a supplier portal (team project) | Spring Boot, Spring Security, JWT, React, TypeScript |
 | [**clubchains**](https://github.com/FatihErdogan1/clubchains) | University club management CLI with token minting on Stellar testnet (hackathon project) | Rust, Stellar Soroban |
-| [**spice-bazaar**](https://github.com/FatihErdogan1/spice-bazaar) · [live](https://fatiherdogan1.github.io/spice-bazaar/) | Multi-page website about Istanbuls Spice Bazaar with the teams original photography (course project) | HTML, CSS |
+| [**tarihi-yarimada**](https://github.com/FatihErdogan1/tarihi-yarimada) · [live](https://fatiherdogan1.github.io/tarihi-yarimada/) | Website about Istanbul's Historic Peninsula and the Spice Bazaar, with a scroll-driven 3D bazaar model and the team's own photography (course project) | HTML, CSS, JavaScript, GSAP, model-viewer |
 | [**envanter**](https://github.com/FatihErdogan1/envanter) | Desktop edition of the inventory system | Java, Swing, MySQL |
 | [**mysite**](https://github.com/FatihErdogan1/mysite) | My portfolio site, [fatiherdogan.live](https://fatiherdogan.live) | HTML, CSS, JavaScript, GSAP |
 
