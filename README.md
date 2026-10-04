@@ -1,7 +1,7 @@
 # Hi, I'm Fatih Erdoğan
 
 4th-year **Management Information Systems** student at Işık University in Istanbul, ranked 1st in my department.
-I build full-stack web and mobile software, and I'm especially interested in **fintech**.
+I build full-stack web and mobile software.
 
 ### Experience
 
