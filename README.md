@@ -45,12 +45,8 @@ I build full-stack web and mobile software.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FatihErdogan1&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars,issues&bg_color=0c1524&title_color=d3ac6e&text_color=b9c1cd&icon_color=35BBAA&border_color=203A55&border_radius=10" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihErdogan1&layout=compact&hide=html,css&langs_count=6&bg_color=0c1524&title_color=d3ac6e&text_color=b9c1cd&border_color=203A55&border_radius=10" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FatihErdogan1&background=0c1524&border=203A55&stroke=203A55&ring=35BBAA&fire=d3ac6e&currStreakNum=f4efe4&sideNums=f4efe4&currStreakLabel=35BBAA&sideLabels=b9c1cd&dates=8b96a8&border_radius=10" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=FatihErdogan1&background=0c1524&border=203A55&stroke=203A55&ring=35BBAA&fire=d3ac6e&currStreakNum=f4efe4&sideNums=f4efe4&currStreakLabel=35BBAA&sideLabels=b9c1cd&dates=8b96a8&border_radius=10" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihErdogan1&layout=compact&hide=html,css&langs_count=6&bg_color=0c1524&title_color=d3ac6e&text_color=b9c1cd&border_color=203A55&border_radius=10" alt="Top languages" />
 </p>
 
 <p align="center">
